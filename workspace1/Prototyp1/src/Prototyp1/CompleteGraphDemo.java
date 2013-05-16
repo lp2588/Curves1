@@ -3,7 +3,7 @@ package Prototyp1;
 /* ==========================================
  * JGraphT : a free Java graph-theory library
  * ==========================================
- *
+ *was geht ab
  * Project Info:  http://jgrapht.sourceforge.net/
  * Project Creator:  Barak Naveh (http://sourceforge.net/users/barak_naveh)
  *
